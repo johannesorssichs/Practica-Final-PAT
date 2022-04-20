@@ -1,0 +1,218 @@
+
+
+body
+{
+    margin-left: 16%;
+    margin-right: 16%;
+    background-image:url(imagenes/fondo.gif);
+}
+
+h1
+{
+    font-style: comic-sans;
+    text-align: center;
+}
+
+.b1
+{
+    margin-left: 12%;
+    margin-top: 10%;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+
+}
+
+.b1:hover
+{
+    color: #1883ba;
+    background-color: #ffffff;
+}
+
+.panelblanco
+{
+    background-color: lightslategrey;
+    width: 100%;
+    height: 2300px;
+}
+
+.header
+{
+    width: 100%;
+    height: 350px;
+    background-image: url(imagenes/cine.jpg);
+
+}
+
+.nombre
+{
+
+    float: left;
+    color: red;
+    font-size: 300%;
+    font-family: fantasy;
+    margin-left: 38%;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.contenedor{
+    height: 80%;
+    width: 100%;
+    background-color: red;
+   
+}
+hr
+{
+    margin-top: 5%;
+}
+.peli1{
+    border-radius: 20px;
+    margin-top: 3%;
+background-image: url(imagenes/imagenfrozen.jpg);
+width: 33%;
+height: 17%;
+ display: inline-block;
+}
+
+.peli2{
+    border-radius: 20px;
+ margin-top: 3%;
+background-image: url(imagenes/batman.jpg);
+width: 33%;
+height: 17%;
+ display: inline-block;
+
+}
+.peli3{
+    border-radius: 20px;
+     margin-top: 3%;
+    background-color: orange;
+    background-image: url(imagenes/origen.jpg);
+    width: 33%;
+    height: 17%;
+     display: inline-block;
+
+}
+.peli4{
+    border-radius: 20px;
+     margin-top: 3%;
+ background-image: url(imagenes/devil.jpg);    
+ width: 33%;
+    height: 17%;
+     display: inline-block;
+
+}
+.peli5{
+    border-radius: 20px;
+     margin-top: 3%;
+    background-image: url(imagenes/apellidos.jpg); 
+    width: 33%;
+    height: 17%;
+     display: inline-block;
+
+}
+.peli6{
+    border-radius: 20px;
+     margin-top: 3%;
+    background-image: url(imagenes/forest.jpg); 
+    width: 33%;
+    height: 17%;
+     display: inline-block;
+
+}
+.peli7{
+    border-radius: 20px;
+     margin-top: 3%;
+    background-image: url(imagenes/soldado.jpg); 
+    width: 33%;
+    height: 17%;
+     display: inline-block;
+
+}
+.peli8{
+    border-radius: 20px;
+     margin-top: 3%;
+     background-image: url(imagenes/padrino.jpg); 
+    width: 33%;
+    height: 17%;
+     display: inline-block;
+
+}
+
+.peli9{
+    border-radius: 20px;
+     margin-top: 3%;
+ background-image: url(imagenes/shutter.jpg);     width: 33%;
+    height: 17%;
+     display: inline-block;
+
+}
+
+.val1{
+    display: inline-block;
+   
+    align-content: center;
+
+    background-repeat: no-repeat;
+    height: 2%;
+    width: 33%;
+}
+.val2{
+    display: inline-block;
+    height: 2%;
+    width: 33%;
+     background-repeat: no-repeat;
+}
+.val3{
+    display: inline-block;
+    height: 2%;
+    width: 33%;
+     background-repeat: no-repeat;
+}
+
+.val4{
+    display: inline-block;
+    height: 2%;
+    width: 33%;
+     background-repeat: no-repeat;
+}
+.val5{
+    display: inline-block;
+    height: 2%;
+    width: 33%;
+     background-repeat: no-repeat;
+}
+.val6{
+    display: inline-block;
+    height: 2%;
+    width: 33%;
+     background-repeat: no-repeat;
+}
+
+
+
+.val7{
+    display: inline-block;
+    height: 2%;
+    width: 33%;
+     background-repeat: no-repeat;
+}
+.val8{
+    display: inline-block;
+    height: 2%;
+    width: 33%;
+     background-repeat: no-repeat;
+}
+.val9{
+    display: inline-block;
+    height: 2%;
+    width: 33%;
+     background-repeat: no-repeat;
+}
+
+

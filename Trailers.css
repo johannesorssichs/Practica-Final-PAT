@@ -1,0 +1,85 @@
+
+.ventana{
+	width: 60%;
+	height: 400px;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top:3%;
+	margin-bottom: 3% 
+}
+
+h1{
+	font-family: monospace;
+	text-align: center;
+	font-size: 50px;
+	color:blue;
+}
+body
+{
+	margin-left: 16%;
+	margin-right: 16%;
+	background-image:url(imagenes/fondo.gif); 	
+}
+
+.panelblanco
+{
+	background-color: white;
+	width: 100%;
+	height: 7300px;
+}
+
+.header
+{
+	width: 100%;
+	height: 350px;
+	background-image: url(imagenes/cine.jpg);
+}
+
+.nombre
+{
+
+	float: left;
+	color: red;
+	font-size: 300%;
+	font-family: fantasy;
+	margin-left: 38%;
+	margin-top: 5%;
+	text-align: center;
+}
+
+.menu
+{
+	background-color: bisque;
+	width: 100%;
+	height: 40px;
+}
+
+.opciones
+{
+	display: inline-block;
+	margin-left: 25%;
+	margin-right: 25%;
+	font-size: 150%;
+}
+
+.aviso
+{
+	float: left;
+	margin-left: 10%;
+	width: 50%;
+	font-family: monospace;
+}
+
+.rojo
+{
+	color: red;
+	font-size: 350%;
+	text-align: center;
+}
+
+.redes
+{
+	width: 100%;
+	height: 30px;
+	background-image: url(imagenes/redes.png);
+}
